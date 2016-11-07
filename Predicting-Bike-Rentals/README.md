@@ -33,4 +33,4 @@ ipython notebook predicting_bike_rentals.ipynb
 This will open the Jupyter Notebook software and project file in your web browser.
 
 ## Data
-The dataset used in this project is included as `bike_hour_rental.csv`. This dataset is provided by Hadi [Fanaee-T](http://www.liaad.up.pt/area/fanaee) at the University of Porto .
+The dataset used in this project is included as `bike_hour_rental.csv`. This dataset is provided by [Hadi Fanaee-T](http://www.liaad.up.pt/area/fanaee) at the University of Porto .
